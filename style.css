@@ -392,7 +392,7 @@ span{
     background: var(--second-bg-color);
     align-items: center;
     justify-content: center;
-    gap: 15rem;
+    gap: 10rem;
 }
 
 .Company h2{
